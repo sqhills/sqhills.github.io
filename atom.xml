@@ -6,7 +6,7 @@
   <link href="http://sqhills.github.io/atom.xml" rel="self"/>
   
   <link href="http://sqhills.github.io/"/>
-  <updated>2022-01-22T03:35:07.225Z</updated>
+  <updated>2022-01-25T09:06:11.262Z</updated>
   <id>http://sqhills.github.io/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>about</title>
+    <link href="http://sqhills.github.io/2022/01/25/about/"/>
+    <id>http://sqhills.github.io/2022/01/25/about/</id>
+    <published>2022-01-25T02:15:19.000Z</published>
+    <updated>2022-01-25T09:06:11.262Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Blog-of-sqhills"><a href="#Blog-of-sqhills" class="headerlink" title="Blog of sqhills"></a>Blog of sqhills</h1><p>In here you’ll mainly find tech stuff, and sometimes probably comments about random things. Due to insufficient time and various unfortunate and irresistible reasons, blogs would be kind of sloppy. Still, I hope whoever reads this wouldn’t mind.</p><p>The posts are licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;Blog-of-sqhills&quot;&gt;&lt;a href=&quot;#Blog-of-sqhills&quot; class=&quot;headerlink&quot; title=&quot;Blog of sqhills&quot;&gt;&lt;/a&gt;Blog of sqhills&lt;/h1&gt;&lt;p&gt;In here you’ll mai</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
