@@ -6,7 +6,7 @@
   <link href="http://sqhills.github.io/atom.xml" rel="self"/>
   
   <link href="http://sqhills.github.io/"/>
-  <updated>2022-01-25T09:14:05.895Z</updated>
+  <updated>2022-01-26T07:55:10.358Z</updated>
   <id>http://sqhills.github.io/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>cauchy</title>
+    <link href="http://sqhills.github.io/2022/01/26/cauchy/"/>
+    <id>http://sqhills.github.io/2022/01/26/cauchy/</id>
+    <published>2022-01-26T04:26:33.000Z</published>
+    <updated>2022-01-26T07:55:10.358Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Cauchy-Schwarz-Inequality"><a href="#Cauchy-Schwarz-Inequality" class="headerlink" title="Cauchy-Schwarz Inequality"></a>Cauchy-Schwarz Inequality</h1><p>$$<br>(\sum_{i=0}^n{a_i^2})(\sum_{i=0}^n{b_i^2})\geq(\sum_{i=0}^{n}{a_ib_i})^2<br>$$</p><h4 id="Ex1"><a href="#Ex1" class="headerlink" title="Ex1"></a>Ex1</h4><blockquote><p>Given $a, b, c\in\mathbb{R}^*, a+b+c=9$, what is the minimum value of $\frac{4}{a}+\frac{9}{b}+\frac{16}{c}$?</p></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;Cauchy-Schwarz-Inequality&quot;&gt;&lt;a href=&quot;#Cauchy-Schwarz-Inequality&quot; class=&quot;headerlink&quot; title=&quot;Cauchy-Schwarz Inequality&quot;&gt;&lt;/a&gt;Cauchy-Schw</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>About</title>
